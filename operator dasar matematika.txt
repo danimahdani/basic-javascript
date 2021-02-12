@@ -1,0 +1,30 @@
+operator pada javascript
+aritmatika/matematika
+penugasan
+perbandingan
+logika
+string
+kondisional
+typeof
+
+artimatika,penugasan,perbandingan,logika,string = operator binary
+kondisional = operator ternary
+typeof = operator unary
+
+binary membutuhkan 2 operand contoh 1 + 2
+
+
+urutan operasi matematika pada javascript
+Kurung, kali, bagi, tambah, kurang
+
+modulus (%) adalah mencari sisa bagi dari hasil pembagian
+contoh 10 % 3 yg menghasilkan angka 1
+
+perbandingan dengan menggunakan strict (===,!==)
+contoh penggunaan
+10 === "10" maka hasilnya false
+kenapa ?, karena operator strict mencari identitas pada tipe data masing" variabel
+
+shorthand operator penugasan pada javascript
+x += y sama aja dengan x = x + y ( - , * , / % )
+dan serterusnya

@@ -1,0 +1,31 @@
+nama asli dari javascript sendiri adalah ECMAScript
+disitulah adanya versi ES1 ,ES2, ES3 dan selanjutnya
+
+penyimpanan script harus di atas tutup body karena code yang akan di baca oleh browser
+dimulai dari atas terlebih dahulu
+
+javascript juga bisa dibuat langsung di dalam html
+atau di folder terpisah dengan menggunakan tag src(source) pada tag elemen script di html
+
+
+tipe data dalam javascript
+number = berupa angka (penulisan tanpa kutip)
+jangan pernah mengawali tipe data number menggunakan angka nol (0)
+ketika bilangan kita di awali dengan angka nol maka javascipt menganggap bilangan tersebut
+bilangan oktal
+jika menggunakan 0xff akan di ubah menjadi angka hexadecimal untuk warna
+angka spesial pada javascript
+infinity = contoh kasus nilai infinity 2/0
+-infinity = contoh kasus nilai -infinity -2/0
+NaN = (Not a Number) contoh kasus jika number dibagi dengan string
+maka string tersebut di anggap sebagai number oleh javascript dan hasil dari
+kalkulasi nya juga berupa number77
+
+string = bisa berupa huruf dan angka (penulisan menggunakan tanda kutip (') (") (`)
+boolean = nilai berupa angka 0 / 1 atau di sebut true / false (benar dan salah)
+object = 
+function = 
+undefined = 
+
+
+

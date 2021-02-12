@@ -1,0 +1,27 @@
+operator logika menggunakan &&
+harus menghasilkan kedua nilai tersebut true
+kalau salah satu saja bernilai false maka nilai yang akan dikeluarkan oleh &&
+bernilai false
+
+operator logika menggunakan ||
+akan menghasilkan nilai true jika salah satu perbandingannya bernilai true
+
+
+operasi logika string mengembalikan nilai string jika di gabungkan dengan
+tipe data number
+contoh 10 + "10" yang menghasilkan string "1010"
+jika menambahkan angka dengan angka menghasilkan nilai angka/number
+contoh 10 + 10 + "10" yang menghasilkan nilai string "2010"
+jika di awalan operator tipe string maka hasil dari
+"10" + 10 + 10 yang menghasilkan nilai string dan penjumlahan dari angka itu
+tidak dianggap dan hasilnya adalah "101010"
+
+
+typeof pada javascript akan mengembalikan tipe data apa yang terdapat
+pada code
+contoh
+typeof(10) yang menghasilkan number pada console
+typeof("10") yang menghasilkan string pada console
+typeof(true) yang menghasilkan tipe data boolean
+
+cara menulis kondisi pada javascript

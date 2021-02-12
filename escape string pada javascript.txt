@@ -1,0 +1,9 @@
+penulisan tipe data string pada javascript
+menggunakan kutip dua (") dan di akhiri kutip dua juga
+menggunaka kutip satu (') yang di bawah kutip dua tanpa menggunakan shift
+
+jika ingin menggunakan keduanya pada javascript seperti contoh ini
+"Lomba Makan Pempek" pada hari Jum'at"
+keadaan dimana semua kutip digunakan
+di kasus ini kita membutuhkan back slash sebagai penanda bahwa pada
+tulisan hari jum'at kita harus menggunakan Jum\'at yang di sebut escape character

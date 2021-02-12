@@ -1,0 +1,23 @@
+aturan penulisan variable pada javascript
+
+untuk mendeklarasikan var pada javascript tidak boleh menggunakan spasi
+contoh salahnya seperti ini
+var isi nya apa; <- ini tidak boleh
+
+contoh selanjutnya, pendeklarasian ga boleh di awali dengan angka
+contohnya
+var 1isinya; <- ini tidak boleh juga
+
+variabel juga boleh digabungkan dengan angka asalakan angka itu di belakang huruf
+contohnya
+var boleh1; <- ini boleh
+
+jika ingin memisahakan huruf/angka pada variable gunakanlah underscore ( _ )
+
+paling sering digunakan untuk mendeklarasikan pada javascirpt tu menggunakan
+camel case
+contoh menggunakan camel case
+var namaVariabelPanjang;
+penggunaan camelcase diawali dengan huruf kecil
+huruf pertama dari kata pertama huruf kecil
+huruf kedua dari kata pertama menggunakan Kapital atau huruf besar

@@ -1,0 +1,5 @@
+while pada javascript
+
+while pada javascript bernilai true untuk mengulang kembali pada blok kurung kurawal
+while juga harus mempunya increment/derement untuk menentukan pengulangan yang dihasilkan
+akan berhenti dimana
